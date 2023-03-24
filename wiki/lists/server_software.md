@@ -16,31 +16,31 @@ Private - Made private after being added to this list or was private but version
 
 -   [Airplane](https://github.com/TECHNOVE/Airplane) - This fork includes optimizations oriented towards large servers.  
     Version: 1.16 - 1.17.1  
-    Currently Active
-
--   [Akarin](https://github.com/Akarin-project/Akarin) - A Spigot plugin compatible project aiming at becoming fairly multicore compatible. This is a fork of Tuinity aiming to simplify the logic and implement multi-threaded computing and make servers more safe and stable. Used to be called Torch/TorchPowered  
-    Version: 1.12.2 - 1.17.1  
     Currently Inactive
 
--   [Anchor](https://github.com/AnchorMC/Anchor) - Anchor is a server written from scratch in GO.  
-    Version: Unknown  
+-   [Akarin](https://github.com/Akarin-project/Akarin) - A Spigot plugin compatible project aiming at becoming fairly multicore compatible. This is a fork of Tuinity aiming to simplify the logic and implement multi-threaded computing and make servers more safe and stable. Used to be called Torch/TorchPowered.  
+    Version: 1.12.2 - 1.16.5  
     Currently Active
+
+-   [Anchor](https://github.com/AnchorMC/Anchor) - Anchor is a server written from scratch in GO.  
+    Version: N/A  
+    Currently Inactive
 
 -   [APOLLO16 ](https://www.mc-market.org/resources/16271/) - A 1.16.5 Purpur fork with a built-in system monitor and optimized block and chunk ticking methods.  
     Version: 1.16.5  
-    Currently Inactive
+    Discontinued
 
 -   [aSpigot](https://www.mc-market.org/resources/6101/) - aSpigot is a premium 1.7.10 Paper fork with custom knockback editing, togglable features like mob AI, and various features pointed at HCF servers.  
     Version: 1.7.10  
-    Currently Active
+    Lost
 
 -   [AtomSpigot](https://mc-protection.eu/products) - A 1.8.8 TacoSpigot fork with crash fixes, async hit detection, and async knockback built it.  
     Version: 1.8.8  
-    Currently Active
+    N/A
 
 -   [AVRCraft](https://github.com/cnlohr/avrcraft) - AVRCraft is a server that is optimized for 8-bit devices made in C.  
     Version: 1.11, 1.15.2 - 1.16.5  
-    Currently Inactive
+    Discontinued
 
 -   [Basalt](https://github.com/MyCraftServerMC/BasaltMC) - Basalt is a high-performance Paper fork aiming to add more gameplay and mechanics.  
     Version: 1.15.2  
